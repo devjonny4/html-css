@@ -1,0 +1,40 @@
+@charset "UTF8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to right, #8936FF, #553CE8);
+}
+
+main {
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 3px 3px 5px #2e217c88;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+    color: #78149E;
+    text-shadow: 1px 1px 3px #5b0f7998;
+    font: italic small-caps bolder 3em 'Times New Roman', Times, serif;
+    /*
+    • font-style
+    • font-variant
+    • font-weight
+    • font-size/line-height
+    • font-family
+    */
+}
+
+h2 {
+    color: #280EAB;
+}
+
+p {
+    font-size: 1.15em;
+    text-indent: 30px;
+    text-align: justify;
+}

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+    <title>Mídeas em HTML5</title>
+</head>
+<body>
+    <h1>Imagem dinâmica</h1>
+    <p>Teste abrir essa imagem em varios dispositivos diferentes, ou mude o tamanho da tela do navegador</p>
+    <picture>
+        <source media="(max-width: 723px)" srcset="images/imagem-p.png" type="image/png">
+        <source media="(max-width: 1023px)" srcset="images/imagem-m.png" type="image/png">
+        <img src="images/imagem-g.png" alt="Imagem flexivel">
+    </picture>
+
+    <h1>Reproduzindo áudio</h1>
+    <p>Vamos aprender a reproduzir áudios em HTML5</p>
+    <audio src="midia/summer-triangle.mp3" controls preload="metadata" l></audio>
+</body>
+</html>

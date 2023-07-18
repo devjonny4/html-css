@@ -1,0 +1,23 @@
+@charset "UTF8";
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to right, #8936FF, #553CE8);
+}
+
+h1 {
+    text-align: center;
+    color: #78149E;
+    text-shadow: 1px 1px 3px #5b0f7998;
+    font: italic bolder 3em Kalam, 'Times New Roman', Times, serif;
+}
+
+main {
+    background-color: white;
+    width: 600px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 3px 3px 5px #2e217c88;
+}

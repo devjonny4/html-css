@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+    <title>Vídeos com HTML5</title>
+</head>
+<body>
+    <h1>Inserindo vídeos hospedados localmente</h1>
+    <video src="mideas/vacalo.mp4" controls preload="metadata" poster="images/cujura.jpg" width="360"></video>
+
+    <h1>Vários formatos diferentes</h1>
+    <video controls poster="images/cujura.jpg" width="360">
+        <source src="mideas/vacalo.mp4" type="video/mp4">
+        <source src="mideas/vacalo.m4v" type="video/mp4">
+        <source src="mideas/vacalo.webm" type="video/webm">
+        <source src="mideas/vacalo.ogv" type="video/ogg">
+        <p>Seu navegador não tem compatibilidade com reprodução de vídeos</p>
+    </video>
+
+    <h1>Inserindo vídeos do YouTube</h1>
+    <iframe width="360" height="203" src="https://www.youtube.com/embed/DxdsvLGyLp8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+    <h1>Inserindo vídeos do Vimeo</h1>
+    <iframe src="https://player.vimeo.com/video/15433780?h=9027e99f2d&title=0&byline=0&portrait=0" width="360" height="203" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</body>
+</html>

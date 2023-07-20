@@ -4,34 +4,34 @@ Aqui vocês vão encontrar os exercícios e desafios propostos pelo professor Gu
 ## Desafios
 
 **[Desafio das mensagens](https://devjonny4.github.io/html-css/Desafios/d001/)**
-Criar um código HTML apenas com parágrafos e quebras de linha e que gere o resultado visual apresentado.
+- Criar um código HTML apenas com parágrafos e quebras de linha e que gere o resultado visual apresentado.
 
 **[Desafio das imagens](https://devjonny4.github.io/html-css/Desafios/d002/)**
-Criar uma página que tenha duas imagens: uma no conteúdo da página e um ícone de favoritos.
+- Criar uma página que tenha duas imagens: uma no conteúdo da página e um ícone de favoritos.
 
 **[Desafio do mapa](https://devjonny4.github.io/html-css/Desafios/d003/)**
- Posicionar as imagens para formar o mapa usando parágrafos e quebras de linha.
+-  Posicionar as imagens para formar o mapa usando parágrafos e quebras de linha.
 
 **[Desafio dos emojis](https://devjonny4.github.io/html-css/Desafios/d004/)**
-Fazer 3 listas com emojis pelos seus códigos.
+- Fazer 3 listas com emojis pelos seus códigos.
 
 **[Desafio do perfil social](https://devjonny4.github.io/html-css/Desafios/d005/)**
-Criar uma página de divulgação de redes sociais.
+- Criar uma página de divulgação de redes sociais.
 
 **[Desafio das tags](https://devjonny4.github.io/html-css/Desafios/d006/)**
-Criar uma lista que mostra a descrição de seus itens ao passar o mouse por cima.
+- Criar uma lista que mostra a descrição de seus itens ao passar o mouse por cima.
    
 **[Desafio imagem flexível](https://devjonny4.github.io/html-css/Desafios/d007/)**
-Exibir uma imagem que adapte seu tamanho ao tamanho da tela.
+- Exibir uma imagem que adapte seu tamanho ao tamanho da tela.
 
 **[Desafio da navegação](https://devjonny4.github.io/html-css/Desafios/d008/)**
-Criar navegação entre páginas.
+- Criar navegação entre páginas.
 
 **[Desafio dos vídeos](https://devjonny4.github.io/html-css/Desafios/d009/)**
-Criar um site com 4 imagens link que leva a uma página com um vídeo do YouTube iframe.
+- Criar um site com 4 imagens link que leva a uma página com um vídeo do YouTube iframe.
 
 **[Desafio site android](https://devjonny4.github.io/html-css/Desafios/d010/android.html)**
-Criar uma página de notícia responsiva que fala sobre a história do mascote Android.
+- Criar uma página de notícia responsiva que fala sobre a história do mascote Android.
 
 
 

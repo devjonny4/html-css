@@ -65,3 +65,8 @@ Aqui vocês vão encontrar os exercícios e desafios propostos pelo professor Gu
 [Pseudo-classes](https://devjonny4.github.io/html-css/Exercícios/ex020/pseudoclasse.html) | ex020
 [Modelo de caixas](https://devjonny4.github.io/html-css/Exercícios/ex021/caixa01.html) | ex021
 [Grouping tags](https://devjonny4.github.io/html-css/Exercícios/ex021/caixa02.html) | ex021
+[Introdução imagem de fundo](https://devjonny4.github.io/html-css/Exercícios/ex022/fundo001.html) | ex022
+[Personalização dos fundos](https://devjonny4.github.io/html-css/Exercícios/ex022/fundo002.html) | ex022
+[Posicionamento 1](https://devjonny4.github.io/html-css/Exercícios/ex022/fundo003.html) | ex022
+[Posicionamento 2](https://devjonny4.github.io/html-css/Exercícios/ex022/fundo004.html) | ex022
+[Fundo fixo de tela](https://devjonny4.github.io/html-css/Exercícios/ex022/fundo005.html) | ex022

@@ -70,3 +70,4 @@ Aqui vocês vão encontrar os exercícios e desafios propostos pelo professor Gu
 [Posicionamento 1](https://devjonny4.github.io/html-css/Exercícios/ex022/fundo003.html) | ex022
 [Posicionamento 2](https://devjonny4.github.io/html-css/Exercícios/ex022/fundo004.html) | ex022
 [Fundo fixo de tela](https://devjonny4.github.io/html-css/Exercícios/ex022/fundo005.html) | ex022
+[Alinhamento vertical](https://devjonny4.github.io/html-css/Exercícios/ex022/fundo006.html) | ex022

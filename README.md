@@ -33,6 +33,9 @@ Aqui vocês vão encontrar os exercícios e desafios propostos pelo professor Gu
 **[Desafio site android](https://devjonny4.github.io/html-css/Desafios/d010/android.html)**
 - Criar uma página de notícia responsiva que fala sobre a história do mascote Android.
 
+**[Desafio do astronauta](https://devjonny4.github.io/html-css/Desafios/d011/)**
+- Criar uma página com uma imagem de fundo do espaço que fique sempre preenchendo a tela inteira, e a imagem de um astronauta que fique sempre centralizda na tela.
+
 
 
 

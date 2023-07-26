@@ -36,7 +36,7 @@ Aqui vocês vão encontrar os exercícios e desafios propostos pelo professor Gu
 **[Desafio do astronauta](https://devjonny4.github.io/html-css/Desafios/d011/)**
 - Criar uma página com uma imagem de fundo do espaço que fique sempre preenchendo a tela inteira, e a imagem de um astronauta que fique sempre centralizda na tela.
 
-**[Desafio do astronauta](https://devjonny4.github.io/html-css/Desafios/d012/)**
+**[Desafio do cordel](https://devjonny4.github.io/html-css/Desafios/d012/)**
 - Criar uma página com cordel e imagens com efeito parallax simples.
 
 ## Exercícios

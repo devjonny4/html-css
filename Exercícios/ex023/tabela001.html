@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="../ex017/images/favicon.ico" type="image/x-icon">
+    <style>
+        body {
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        table {
+            text-align: center;
+            border-collapse: collapse;
+            border: 2px solid darkblue;
+        }
+
+        td {
+            width: 100px;
+            height: 100px;
+            border: 1px solid black;
+            padding: 3px;
+            font-size: 1.3em;
+            vertical-align: bottom;
+        }
+        
+        td.destaque {
+            background-color: yellow;
+        }
+
+        tr.linha {
+            background-color: lightgray;
+        }        
+    </style>
+    <title>Tabelas</title>
+</head>
+<body>
+    <h1>Minha primeira tabela</h1>
+    <!--
+        Hierarquia da tabela (simples)
+        table
+            Table row (tr)
+                Table header
+                Table data (td)
+
+    -->
+
+    <table>
+        <tr> <!--Primeira linha-->
+            <td>A1</td>
+            <td>A2</td>
+            <td>A3</td>
+        </tr>
+        <tr class="linha"> <!--Segunda linha-->
+            <td>B1</td>
+            <td class="destaque">B2</td>
+            <td>B3</td>
+        </tr>
+        <tr> <!--Terceira linha-->
+            <td>C1</td>
+            <td>C2</td>
+            <td>C3</td>
+        </tr>
+        <tr class="linha"> <!--Quarta linha-->
+            <td>D1</td>
+            <td>D2</td>
+            <td>D3</td>
+        </tr>
+    </table>
+</body>
+</html>

@@ -74,3 +74,5 @@ Aqui vocês vão encontrar os exercícios e desafios propostos pelo professor Gu
 [Posicionamento 2](https://devjonny4.github.io/html-css/Exercícios/ex022/fundo004.html) | ex022
 [Fundo fixo de tela](https://devjonny4.github.io/html-css/Exercícios/ex022/fundo005.html) | ex022
 [Alinhamento vertical](https://devjonny4.github.io/html-css/Exercícios/ex022/fundo006.html) | ex022
+[Primeira tabela](https://devjonny4.github.io/html-css/Exercícios/ex023/tabela001.html) | ex023
+[Uso de tabelas grandes](https://devjonny4.github.io/html-css/Exercícios/ex023/tabela002.html) | ex023

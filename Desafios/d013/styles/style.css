@@ -10,3 +10,16 @@ td {
     border-radius: 5px;
     padding: 5px;
 }
+
+a {
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    background-color: rgb(48, 47, 47);
+    padding: 3px;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: black;
+}

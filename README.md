@@ -39,6 +39,9 @@ Aqui vocês vão encontrar os exercícios e desafios propostos pelo professor Gu
 **[Desafio do cordel](https://devjonny4.github.io/html-css/Desafios/d012/)**
 - Criar uma página com cordel e imagens com efeito parallax simples.
 
+**[Desafio da tabela](https://devjonny4.github.io/html-css/Desafios/d013/)**
+- Criar uma página com as duas tabelas mostadas na [proposta do desafio](https://www.youtube.com/watch?v=MnznvoNuy-I&t=456s).
+
 ## Exercícios
 | Assunto | Exercício  |
 |--|--|
@@ -76,3 +79,4 @@ Aqui vocês vão encontrar os exercícios e desafios propostos pelo professor Gu
 [Alinhamento vertical](https://devjonny4.github.io/html-css/Exercícios/ex022/fundo006.html) | ex022
 [Primeira tabela](https://devjonny4.github.io/html-css/Exercícios/ex023/tabela001.html) | ex023
 [Uso de tabelas grandes](https://devjonny4.github.io/html-css/Exercícios/ex023/tabela002.html) | ex023
+[Mesclagem de células](https://devjonny4.github.io/html-css/Exercícios/ex023/tabela003.html) | ex023

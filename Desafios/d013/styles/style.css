@@ -11,6 +11,11 @@ td {
     padding: 5px;
 }
 
+td:hover {
+    color: white;
+    background-color: rgb(32, 32, 32);
+}
+
 a {
     text-decoration: none;
     font-family: 'Times New Roman', Times, serif;

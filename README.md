@@ -42,6 +42,9 @@ Aqui vocês vão encontrar os exercícios e desafios propostos pelo professor Gu
 **[Desafio da tabela](https://devjonny4.github.io/html-css/Desafios/d013/)**
 - Criar uma página com as duas tabelas mostadas na [proposta do desafio](https://www.youtube.com/watch?v=MnznvoNuy-I&t=456s).
 
+**[Desafio da tabela (parte 2)](https://devjonny4.github.io/html-css/Desafios/d014/)**
+- Criar uma página com a tabela mostada na [proposta do desafio](https://www.youtube.com/watch?v=V2gVaqTSRmo).
+
 ## Exercícios
 | Assunto | Exercício  |
 |--|--|

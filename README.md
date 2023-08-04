@@ -85,3 +85,4 @@ Aqui vocês vão encontrar os exercícios e desafios propostos pelo professor Gu
 [Mesclagem de células](https://devjonny4.github.io/html-css/Exercícios/ex023/tabela003.html) | ex023
 [Escopos de tabela](https://devjonny4.github.io/html-css/Exercícios/ex023/tabela004.html) | ex023
 [Colgroup](https://devjonny4.github.io/html-css/Exercícios/ex023/tabela005.html) | ex023
+[Tabela responsiva](https://devjonny4.github.io/html-css/Exercícios/ex023/tabela006.html) | ex023

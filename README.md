@@ -130,3 +130,5 @@ Aqui vocês vão encontrar os exercícios e desafios propostos pelo professor Gu
 [Testes com iframe](https://devjonny4.github.io/html-css/Exercícios/ex024/iframe002.html.html) | ex024
 
 [iframe com links](https://devjonny4.github.io/html-css/Exercícios/ex024/iframe003.html.html) | ex024
+
+[iframe mais seguros](https://devjonny4.github.io/html-css/Exercícios/ex024/iframe004.html.html) | ex024

@@ -45,6 +45,9 @@ Aqui vocês vão encontrar os exercícios e desafios propostos pelo professor Gu
 **[Desafio da tabela (parte 2)](https://devjonny4.github.io/html-css/Desafios/d014/)**
 - Criar uma página com a tabela mostada na [proposta do desafio](https://www.youtube.com/watch?v=V2gVaqTSRmo).
 
+**[Desafio das redes sociais](https://devjonny4.github.io/html-css/Desafios/d015/)**
+- Criar uma página de divulgação de redes sociais mostrada na [proposta do desafio](https://www.youtube.com/watch?v=hPze5_OYqBw).
+
 ## Exercícios
 | Assunto | Exercício  |
 |--|--|

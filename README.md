@@ -128,10 +128,14 @@ Aqui vocês vão encontrar os exercícios e desafios propostos pelo professor Gu
 
 [Tabela responsiva](https://devjonny4.github.io/html-css/Exercícios/ex023/tabela006.html) | ex023
 
-[Introdução à iframe](https://devjonny4.github.io/html-css/Exercícios/ex024/iframe001.html.html) | ex024
+[Introdução à iframe](https://devjonny4.github.io/html-css/Exercícios/ex024/iframe001.html) | ex024
 
-[Testes com iframe](https://devjonny4.github.io/html-css/Exercícios/ex024/iframe002.html.html) | ex024
+[Testes com iframe](https://devjonny4.github.io/html-css/Exercícios/ex024/iframe002.html) | ex024
 
-[iframe com links](https://devjonny4.github.io/html-css/Exercícios/ex024/iframe003.html.html) | ex024
+[iframe com links](https://devjonny4.github.io/html-css/Exercícios/ex024/iframe003.html) | ex024
 
-[iframe mais seguros](https://devjonny4.github.io/html-css/Exercícios/ex024/iframe004.html.html) | ex024
+[iframe mais seguros](https://devjonny4.github.io/html-css/Exercícios/ex024/iframe004.html) | ex024
+
+[Introdução à forms](https://devjonny4.github.io/html-css/Exercícios/ex025/form001.html) | ex025
+
+[Parâmetros de input](https://devjonny4.github.io/html-css/Exercícios/ex025/form002.html) | ex025

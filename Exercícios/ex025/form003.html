@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="../ex017/images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="../ex016/style.css">
+    <style>
+        input {
+            margin: 5px;
+            border: 2px solid #540e70b6;
+        }
+
+        input:hover {
+            border: 2px solid #553CE8;
+            transition: .5s;
+        }
+    </style>
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <main>
+            <h1>Teste de formulário</h1>
+            <form action="cadastro.php" method="get">
+                <p>
+                    <label for="inome">Nome</label>
+                    <input type="text" name="Nome" id="inome" autocomplete="name" required size="30" placeholder="Nome completo">
+                </p>
+                <p>
+                    <label for="inota">Nota</label>
+                    <input type="number" name="nota" id="inota" min="0" max="10" step=".5" placeholder="Nota" required value="5">
+                </p>
+                <p>
+                    <label for="imes">Período letivo</label>
+                    <input type="month" name="mes" id="imes" value="2001-06">
+                </p>
+                <p>
+                    <label for="data">Data da prova</label>
+                    <input type="date" name="data" id="idata" value="2004-09-06">
+                </p>
+                <p>
+                    <label for="hora">Horário da prova</label>
+                    <input type="time" name="hora" id="ihora" value="19:45">
+                </p>
+                <p>
+                    <input type="submit" value="Enviar">
+                    <input type="reset" value="Limpar">
+                </p>
+            </form>
+        </main>
+    </div>
+</body>
+</html>

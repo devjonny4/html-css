@@ -95,3 +95,4 @@ Aqui vocês vão encontrar os exercícios e desafios propostos pelo professor Gu
 [iframe mais seguros](https://devjonny4.github.io/html-css/Exercícios/ex024/iframe004.html) | ex024
 [Introdução à forms](https://devjonny4.github.io/html-css/Exercícios/ex025/form001.html) | ex025
 [Parâmetros de input](https://devjonny4.github.io/html-css/Exercícios/ex025/form002.html) | ex025
+[Novos tipos de input](https://devjonny4.github.io/html-css/Exercícios/ex025/form003.html) | ex025

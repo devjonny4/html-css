@@ -1,0 +1,9 @@
+input {
+    margin: 5px;
+    border: 2px solid #540e70b6;
+}
+
+input:hover {
+    border: 2px solid #553CE8;
+    transition: .5s;
+}

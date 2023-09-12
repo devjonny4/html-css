@@ -97,3 +97,4 @@ Aqui vocês vão encontrar os exercícios e desafios propostos pelo professor Gu
 [Parâmetros de input](https://devjonny4.github.io/html-css/Exercícios/ex025/form002.html) | ex025
 [Novos tipos de input](https://devjonny4.github.io/html-css/Exercícios/ex025/form003.html) | ex025
 [input email e tel](https://devjonny4.github.io/html-css/Exercícios/ex025/form004.html) | ex025
+[checkbox e radio](https://devjonny4.github.io/html-css/Exercícios/ex025/form005.html) | ex025

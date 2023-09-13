@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="../ex017/images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="../ex016/style.css">
+    <link rel="stylesheet" href="styles/style.css">
+    <title>Form 006</title>
+</head>
+<body>
+    <main>
+        <h1></h1>
+
+        <form action="cadastro.php" method="post">
+
+            <p>
+                <label for="icor">Cor</label>
+                <input type="color" name="cor" id="icor" value="#8936FF">
+            </p>
+
+            <p>
+                <label for="inivel">Nivel de satisfação</label>
+                <input type="range" name="nivel" id="inivel" min="1" max="5" value="1">
+            </p>
+
+            <p>
+                <label for="iimg">Envie uma foto</label>
+                <input type="file" name="img" id="iimg">
+            </p>
+
+            <p>
+                <input type="submit" value="Enviar">
+                <input type="reset" value="Apagar">
+            </p>
+        </form>
+    </main>
+</body>
+</html>
